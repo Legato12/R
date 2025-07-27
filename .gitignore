@@ -1,0 +1,31 @@
+# Unity generated folders
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Uu]serSettings/
+[Ll]ogs/
+
+
+# WebGL build cache (causes GitHub size issues)
+Library/Il2cppBuildCache/
+
+# IDE / Build system files
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+
+# Other optional ignores
+.DS_Store
+Thumbs.db

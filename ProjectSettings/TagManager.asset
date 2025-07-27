@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - 1st12
+  - 1to18
+  - 2nd12
+  - 3rd12
+  - EVEN
+  - ODD
+  - Red
+  - Black
+  - 13to36
+  - Zero
+  - 2to1(1)
+  - 2to1(2)
+  - 2to1(3)
+  - BlackC
+  - RedC
+  - GreenC
+  - BlueC
+  - Ball
+  - CheapBlack
+  - CheapBlue
+  - CheapGreen
+  - CheapRed
+  - Chip
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
